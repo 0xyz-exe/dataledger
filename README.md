@@ -33,6 +33,38 @@ DataLedger is an open-source platform for automated business data reconciliation
 - **Multi-tenant**: Workspace isolation — users can only see their own data
 - **RBAC**: Owner, Admin, Analyst, Viewer roles with backend-enforced permissions
 
+## Screenshots & Interface Tour
+
+### 1. Operations Overview & Metrics Dashboard
+Real-time visibility into overall match rates, active datasets, reconciliation job outcomes, and discrepancy distributions.
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="DataLedger Operations Dashboard" width="100%" />
+</p>
+
+### 2. Dataset Management & Schema Ingestion Wizard
+Automated header detection, type inference (string, number, date, currency), and canonical field mapping for CSV, Excel (XLSX), and JSON files.
+<p align="center">
+  <img src="docs/screenshots/datasets.png" alt="Dataset Management and Column Mapping" width="100%" />
+</p>
+
+### 3. Reconciliation Execution & Explanations
+Rule-driven deterministic matching engine execution with amount tolerance, date windowing, and clear human-readable explanations.
+<p align="center">
+  <img src="docs/screenshots/reconciliation.png" alt="Reconciliation Jobs and Results Breakdown" width="100%" />
+</p>
+
+### 4. Discrepancy Inspector & Review Workflow
+Side-by-side comparison of mismatched records, categorization breakdown, manual overrides, and approval actions with notes.
+<p align="center">
+  <img src="docs/screenshots/discrepancies.png" alt="Discrepancy Review Panel" width="100%" />
+</p>
+
+### 5. Immutable Audit Trail & Activity Logging
+Enterprise-grade activity logging capturing every action, actor identity, target resource, and sanitized metadata for compliance.
+<p align="center">
+  <img src="docs/screenshots/audit-trail.png" alt="Audit Trail and Activity Log" width="100%" />
+</p>
+
 ## Tech Stack
 
 | Layer | Technology |
