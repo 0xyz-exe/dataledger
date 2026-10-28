@@ -1,0 +1,11 @@
+reference_id,transaction_date,amount,currency,description,status
+TXN-001,2026-10-01,1500000,IDR,Payment for Invoice INV-001,completed
+TXN-002,2026-10-02,2300000,IDR,Payment for Invoice INV-002,completed
+TXN-003,2026-10-03,750000,IDR,Payment for Invoice INV-003,completed
+TXN-004,2026-10-04,4200000,IDR,Payment for Invoice INV-004,completed
+TXN-005,2026-10-05,980000,IDR,Payment for Invoice INV-005,completed
+TXN-006,2026-10-06,1100000,IDR,Payment for Invoice INV-006,completed
+TXN-007,2026-10-07,3300000,IDR,Payment for Invoice INV-007,completed
+TXN-008,2026-10-08,600000,IDR,Payment for Invoice INV-008,completed
+TXN-010,2026-10-10,2900000,IDR,Payment for Invoice INV-010,completed
+TXN-011,2026-10-11,450000,IDR,Payment for Invoice INV-011,completed

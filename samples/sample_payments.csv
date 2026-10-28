@@ -1,0 +1,12 @@
+reference_id,transaction_date,amount,currency,description,gateway_status
+TXN-001,2026-10-01,1500000,IDR,Payment INV-001,settled
+TXN-002,2026-10-02,2350000,IDR,Payment INV-002,settled
+TXN-003,2026-10-04,750000,IDR,Payment INV-003,settled
+TXN-004,2026-10-04,4200000,IDR,Payment INV-004,settled
+TXN-005,2026-10-05,980000,IDR,Payment INV-005,settled
+TXN-005,2026-10-05,980000,IDR,Payment INV-005 (duplicate),settled
+TXN-006,2026-10-06,1100000,IDR,Payment INV-006,settled
+TXN-008,2026-10-08,600000,IDR,Payment INV-008,settled
+TXN-009,2026-10-09,1800000,IDR,Payment INV-009,settled
+TXN-010,2026-10-10,2900000,IDR,Payment INV-010,settled
+TXN-011,2026-10-11,INVALID,IDR,Payment INV-011,failed
