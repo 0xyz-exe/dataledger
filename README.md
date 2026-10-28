@@ -9,6 +9,10 @@
 
 DataLedger is an open-source platform for automated business data reconciliation — compare datasets, detect discrepancies, and generate auditable reports.
 
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="DataLedger Dashboard Overview" width="100%" />
+</p>
+
 ## Use Cases
 
 - Match sales system transactions against payment gateway reports
